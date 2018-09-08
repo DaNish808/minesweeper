@@ -1,0 +1,27 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Exploring graphs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaNish808/minesweeper.git"
+  },
+  "keywords": [],
+  "author": "David Nishikawa <triptype@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaNish808/minesweeper/issues"
+  },
+  "homepage": "https://github.com/DaNish808/minesweeper#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
